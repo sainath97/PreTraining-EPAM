@@ -1,0 +1,11 @@
+Krishna Sainath,Tulluri,CSE,7
+Sai Syam,Nandikanti,CIV,4
+Uday Kiran,Yarramothu,CSE,6
+Uday Pavan,Reddy,CSE,8
+Krishna Chaitanya,Vedantham,CSE,5
+Hitesh,Yadala,CSE,2
+Nikitha,Madala,EEE,1
+Spandana,Bana,EEE,9
+Ravindra,Nagumalli,MEC,3
+Madhav,Upati,ECE,10
+Mahendra Babu,Gangineni,IT,11
