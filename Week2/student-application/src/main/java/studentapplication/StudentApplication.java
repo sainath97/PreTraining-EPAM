@@ -19,7 +19,7 @@ public class StudentApplication {
    */
   public static void main(final String[] args) {
     Scanner sc = new Scanner(System.in);
-    List<Student> studentList = new ArrayList<>();
+    List<Student> studentList = new ArrayList<Student>();
     String fileName = "E:\\CSE\\EPAM\\PreTraining-EPAM"
     + "\\Week2\\student-application\\students.txt";
     try {
